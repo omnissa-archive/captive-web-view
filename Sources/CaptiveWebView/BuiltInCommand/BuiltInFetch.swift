@@ -242,7 +242,7 @@ private func actualFetch(_ request:URLRequest) throws -> (Data?, [String:Any]) {
     group.enter()
 
     // Reference for the response object is here.
-    // https://github.com/vmware/captive-web-view/blob/19-detailed-fetch-errors/documentation/reference.md#why-is-there-a-bridged-fetch-command-as-well-as-the-option-to-use-javascript-fetch
+    // https://github.com/omnissa-archive/captive-web-view/blob/19-detailed-fetch-errors/documentation/reference.md#why-is-there-a-bridged-fetch-command-as-well-as-the-option-to-use-javascript-fetch
     let task = session.dataTask(with: request) {(data, response, error) in
         defer { group.leave() }
         fetchError = error
