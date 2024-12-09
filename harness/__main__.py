@@ -1,5 +1,5 @@
 # Run with Python 3
-# Copyright 2022 VMware, Inc.  
+# Copyright 2022 Omnissa, LLC.  
 # SPDX-License-Identifier: BSD-2-Clause
 
 # This file makes harness a runnable module. To get the command line usage, run

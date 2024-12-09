@@ -1,6 +1,6 @@
 <resources>
 <!--
-    Copyright 2019 VMware, Inc.
+    Copyright 2019 Omnissa, LLC.
     SPDX-License-Identifier: BSD-2-Clause
 -->
     <string name="app_name">Captivity</string>

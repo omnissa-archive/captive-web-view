@@ -1,7 +1,7 @@
 // swift-tools-version:5.3
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
-// Copyright 2023 VMware, Inc.
+// Copyright 2023 Omnissa, LLC.
 // SPDX-License-Identifier: BSD-2-Clause
 
 import PackageDescription

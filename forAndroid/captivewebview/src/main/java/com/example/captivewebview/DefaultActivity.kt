@@ -1,4 +1,4 @@
-// Copyright 2019 VMware, Inc.  
+// Copyright 2019 Omnissa, LLC.  
 // SPDX-License-Identifier: BSD-2-Clause
 
 package com.example.captivewebview

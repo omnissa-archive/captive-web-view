@@ -358,7 +358,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		047AB86F2B0E68FE00D4DD67 /* XCRemoteSwiftPackageReference "captive-web-view" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/vmware/captive-web-view/";
+			repositoryURL = "https://github.com/omnissa-archive/captive-web-view/";
 			requirement = {
 				branch = main;
 				kind = branch;

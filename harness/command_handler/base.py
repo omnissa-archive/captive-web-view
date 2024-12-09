@@ -1,4 +1,4 @@
-# Copyright 2023 VMware, Inc.  
+# Copyright 2023 Omnissa, LLC.  
 # SPDX-License-Identifier: BSD-2-Clause
 """\
 Captive Web View python harness command handler base class and JSON handler.

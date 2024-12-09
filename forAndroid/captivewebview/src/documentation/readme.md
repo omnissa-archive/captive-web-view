@@ -6,5 +6,5 @@ Placeholder for the preamble for the package.
 
 Legal
 =====
-Copyright 2019 VMware, Inc.  
+Copyright 2019 Omnissa, LLC.  
 SPDX-License-Identifier: BSD-2-Clause

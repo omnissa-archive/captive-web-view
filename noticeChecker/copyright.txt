@@ -1,2 +1,2 @@
-Copyright %Y VMware, Inc.
+Copyright %Y Omnissa, LLC.
 SPDX-License-Identifier: BSD-2-Clause

@@ -1,4 +1,4 @@
-# Copyright 2023 VMware, Inc.
+# Copyright 2023 Omnissa, LLC.
 # SPDX-License-Identifier: BSD-2-Clause
 
 # Run with Python 3.9 or later.
@@ -36,7 +36,7 @@ from typing import NamedTuple
 # -   year, one to four year digits.
 #
 # -   suffix, the part after the year which could be the owner like
-#     "VMware, Inc."
+#     "Omnissa, LLC."
 #
 # Use it without anchoring to match ignoring and comment leaders for example.
 copyrightYearRE = re.compile(

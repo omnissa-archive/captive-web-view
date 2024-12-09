@@ -52,7 +52,7 @@ See the Skeleton application Xcode projects as examples, or proceed as follows.
     requiring the framework.
 
 3.  Enter the package repository URL:
-    `https://github.com/vmware/captive-web-view.git`
+    `https://github.com/omnissa-archive/captive-web-view.git`
 
 4.  Enter `main` as the branch.
 
@@ -493,5 +493,5 @@ To resolve the issue, add the required entitlement. TOTH
 
 Legal
 =====
-Copyright 2023 VMware, Inc.  
+Copyright 2023 Omnissa, LLC.  
 SPDX-License-Identifier: BSD-2-Clause

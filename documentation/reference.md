@@ -206,7 +206,7 @@ Typical structure is as follows.
     If the package file isn't at the root, then a project that attempts to
     include the package as a remote will fail with this error:
 
-        https://github.com/vmware/captive-web-view has no Package.swift manifest
+        https://github.com/omnissa-archive/captive-web-view has no Package.swift manifest
 
     This means that all the other package pieces, like the Source/ and Tests/
     directories, also have be in the root of the repository.
@@ -227,5 +227,5 @@ See the separate [headless.md](headless.md) file for details.
 
 Legal
 =====
-Copyright 2023 VMware, Inc.  
+Copyright 2023 Omnissa, LLC.  
 SPDX-License-Identifier: BSD-2-Clause

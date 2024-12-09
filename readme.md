@@ -62,11 +62,7 @@ Cordova and Electron.
 
 ## Contributing
 The Captive Web View project team welcomes contributions from the community.
-Before you start working with Captive Web View, please read our [Developer
-Certificate of Origin](https://cla.vmware.com/dco). All contributions to this
-repository must be signed as described on that page. Your signature certifies
-that you wrote the patch or have the right to pass it on as an open-source
-patch. For more detailed information, refer to the
+For more detailed information, refer to the
 [contributing.md](contributing.md) file.
 
 Check the [documentation/backlog.md](documentation/backlog.md) file for a list
@@ -75,6 +71,6 @@ of work to be done.
 License
 =======
 Captive Web View, is:  
-Copyright 2020 VMware, Inc.  
+Copyright 2020 Omnissa, LLC.  
 And licensed under a two-clause BSD license.  
 SPDX-License-Identifier: BSD-2-Clause

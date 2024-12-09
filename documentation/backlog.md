@@ -79,5 +79,5 @@ introduction, see the [parent directory](/../) readme file.
 
 Legal
 =====
-Copyright 2020 VMware, Inc.  
+Copyright 2020 Omnissa, LLC.  
 SPDX-License-Identifier: BSD-2-Clause

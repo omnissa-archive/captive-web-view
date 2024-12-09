@@ -1,4 +1,4 @@
-// Copyright 2019 VMware, Inc.  
+// Copyright 2019 Omnissa, LLC.  
 // SPDX-License-Identifier: BSD-2-Clause
 
 // The script tag that includes this file must be inside the HTML body, so that

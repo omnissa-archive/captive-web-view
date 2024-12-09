@@ -1,4 +1,4 @@
-# Copyright 2023 VMware, Inc.
+# Copyright 2023 Omnissa, LLC.
 # SPDX-License-Identifier: BSD-2-Clause
 
 # Run with Python 3.9 or later.
@@ -26,7 +26,7 @@ from noticeChecker.notice_editor import NoticeEditor
 from noticeChecker.path_matcher import PathMatcher
 
 # General TOTH
-# https://github.com/vmware-samples/workspace-ONE-SDK-integration-samples/blob/main/IntegrationGuideForAndroid/Apps/samers.py
+# https://github.com/omnissa-archive/workspace-ONE-SDK-integration-samples/blob/main/IntegrationGuideForAndroid/Apps/samers.py
 
 class Edit(enum.Enum):
     YES = True

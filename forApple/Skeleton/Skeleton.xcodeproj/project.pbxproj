@@ -1,5 +1,5 @@
 // !$*UTF8*$!
-/* Copyright 2020 VMware, Inc.
+/* Copyright 2020 Omnissa, LLC.
  * SPDX-License-Identifier: BSD-2-Clause
  */
 {
@@ -367,7 +367,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		CF6E9EB5253761E300CF3ACF /* XCRemoteSwiftPackageReference "captive-web-view" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/vmware/captive-web-view.git";
+			repositoryURL = "https://github.com/omnissa-archive/captive-web-view.git";
 			requirement = {
 				branch = main;
 				kind = branch;

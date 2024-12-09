@@ -1,4 +1,4 @@
-# Copyright 2023 VMware, Inc.  
+# Copyright 2023 Omnissa, LLC.  
 # SPDX-License-Identifier: BSD-2-Clause
 # Run with Python 3
 """Script to check copyright notices.

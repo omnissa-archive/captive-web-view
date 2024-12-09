@@ -5,5 +5,5 @@ This directory has the Headless sample application for iOS. For details, see the
 
 Legal
 =====
-Copyright 2023 VMware, Inc.  
+Copyright 2023 Omnissa, LLC.  
 SPDX-License-Identifier: BSD-2-Clause

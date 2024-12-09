@@ -1,4 +1,4 @@
-// Copyright 2020 VMware, Inc.
+// Copyright 2020 Omnissa, LLC.
 // SPDX-License-Identifier: BSD-2-Clause
 //
 // Original speech synthesis code copied from this article and the linked

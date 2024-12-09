@@ -428,5 +428,5 @@ Select the JDK from Android Studio. TOTH
 
 Legal
 =====
-Copyright 2023 VMware, Inc.  
+Copyright 2023 Omnissa, LLC.  
 SPDX-License-Identifier: BSD-2-Clause

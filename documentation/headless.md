@@ -136,5 +136,5 @@ path of the file is already configured to be ignored by Git.
 
 Legal
 =====
-Copyright 2020 VMware, Inc.  
+Copyright 2020 Omnissa, LLC.  
 SPDX-License-Identifier: BSD-2-Clause

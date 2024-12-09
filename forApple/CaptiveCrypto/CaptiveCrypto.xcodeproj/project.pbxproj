@@ -1,5 +1,5 @@
 // !$*UTF8*$!
-/* Copyright 2023 VMware, Inc.
+/* Copyright 2023 Omnissa, LLC.
  * SPDX-License-Identifier: BSD-2-Clause
  */
 {
@@ -367,7 +367,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.vmware.CaptiveCrypto;
+				PRODUCT_BUNDLE_IDENTIFIER = com.omnissa.CaptiveCrypto;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -385,7 +385,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.vmware.CaptiveCrypto;
+				PRODUCT_BUNDLE_IDENTIFIER = com.omnissa.CaptiveCrypto;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

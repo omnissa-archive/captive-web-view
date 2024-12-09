@@ -1,4 +1,4 @@
-// Copyright 2019 VMware, Inc.  
+// Copyright 2019 Omnissa, LLC.  
 // SPDX-License-Identifier: BSD-2-Clause
 
 // This file contains a number of classes that implement the same protocol. The
